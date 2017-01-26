@@ -1,0 +1,6 @@
+framework module Pods_AlamofireTaskUITests {
+  umbrella header "Pods-AlamofireTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
